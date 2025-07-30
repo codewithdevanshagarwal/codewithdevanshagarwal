@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**codewithdevanshagarwal/codewithdevanshagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I’m @codewithdevanshagarwal
 
 💡 I’m a Generative AI Enthusiast and AI-Focused Developer working with MERN stack + Python.
@@ -15,7 +10,7 @@
 
 📫 How to reach me:
 - Email: devanshagarwal.2225@gmail.com
-- LinkedIn: [Devansh Agarwal](https://www.linkedin.com/in/devanshagarwal) <!-- Update this if needed -->
+- LinkedIn: [Devansh Agarwal](https://www.linkedin.com/in/devanshagarwal)
 
 😄 Pronouns: He/Him
 
