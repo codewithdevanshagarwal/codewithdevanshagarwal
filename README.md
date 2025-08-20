@@ -10,7 +10,10 @@
 
 📫 How to reach me:
 - Email: devanshagarwal.2225@gmail.com
-- LinkedIn: [Devansh Agarwal](https://www.linkedin.com/in/devanshagarwal)
+- LinkedIn: [Devansh Agarwal](https://www.linkedin.com/in/
+devanshagarwal22
+Vanity URL name
+)
 
 😄 Pronouns: He/Him
 
